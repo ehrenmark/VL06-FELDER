@@ -2,8 +2,6 @@
 
 //a) Heap-Speicher
 //b) Jedes Element wird zu Anfang false sein.
-
-
 //c)
 public class Aufgabe1 {
     public static void main(String[] args) {
